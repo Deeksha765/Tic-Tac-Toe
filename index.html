@@ -3,21 +3,31 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="/TLC.css">
-    <title>TLC animation</title>
+    <title>Tic-Tac-Toe</title>
+    <link rel="stylesheet" href="/style.css">
 </head>
 <body>
-    <div id="main-container">
-        <div class="t-container">
-            <h1>T</h1>
-        </div>
-        <div class="l-container">
-            <h1>L</h1>
-        </div>
-        <div class="c-container">
-            <h1>C</h1>
-        </div>
+    <div class="msg-container hide">
+        <p id="msg">Winner</p>
+        <button id="new-btn">New Game</button>
     </div>
-    <script src="/TLC.js"></script>
+    <main>
+      <h1>Tic_Tac-Toe</h1>
+      <div class="container">
+        <div class="game">
+           <button class="box"></button>
+           <button class="box"></button>
+           <button class="box"></button>
+           <button class="box"></button>
+           <button class="box"></button>
+           <button class="box"></button>
+           <button class="box"></button>
+           <button class="box"></button>
+           <button class="box"></button>    
+        </div>
+      </div>
+      <button id="reset-btn">Reset Game</button>
+    </main>
+    <script src="/script.js"></script>
 </body>
 </html>
