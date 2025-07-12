@@ -15,7 +15,7 @@ A simple **Tic-Tac-Toe** game built using **HTML**, **CSS**, and **JavaScript**.
 ## 🖥️ Tech Used
 - HTML5
 - CSS3
-- JavaScript (vanilla)
+- JavaScript 
 
 ---
 
