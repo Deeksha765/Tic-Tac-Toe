@@ -19,22 +19,6 @@ A simple **Tic-Tac-Toe** game built using **HTML**, **CSS**, and **JavaScript**.
 
 ---
 
-## 🚀 Live Demo
-
-👉 [Click here to play the game](https://deeksha765.github.io/Tic-Tac-Toe/) 👈
-
----
-
-## 📸 Screenshots (optional)
-
-*You can upload a screenshot later here by dragging and dropping the image into this README.*
-
----
-
-## 📂 Folder Structure
-
----
-
 ## 📌 Features
 - Turn-based gameplay
 - Win detection
